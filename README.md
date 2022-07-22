@@ -20,7 +20,7 @@ On click of reset stop the watch (if already started) and set timer as 0
 
 
 # Demo Link
-`<link>`: [Alarm-Clock](https://nikuwadaskar.github.io/Alarm-clock-project/)
+`<link>`: [Stop-Watch](https://stopwatch-project-2022.netlify.app/)
 
 
 # Screenshots 
